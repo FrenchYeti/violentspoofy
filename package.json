@@ -1,0 +1,22 @@
+{
+  "name": "violent-spoofy",
+  "version": "1.0.0",
+  "description": "A file type spoofing tool",
+  "main": "ViolentSpoofy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "format",
+    "upload",
+    "extension",
+    "magic",
+    "numbers",
+    "RFC",
+    "ISO","Spoofing"
+  ],
+  "author": "Georges-B. MICHEL",
+  "license": "GPL-3.0",
+  "dependencies": {}
+}
